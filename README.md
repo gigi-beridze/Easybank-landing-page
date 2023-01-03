@@ -1,4 +1,4 @@
-#https://teal-nougat-e68ce7.netlify.app/
+https://teal-nougat-e68ce7.netlify.app/
 
 
 # Easybank-landing-page
