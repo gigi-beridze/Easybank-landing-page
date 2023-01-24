@@ -5,6 +5,7 @@ View Demo👇: <br />
 https://teal-nougat-e68ce7.netlify.app/ <br />
 View my Linkedin👇: <br />
 https://www.linkedin.com/in/gigi-beridze-367126214/ <br />
+<br />
 Gmail - gigi.beridze.2018@gmail.com
 
 
