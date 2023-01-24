@@ -5,8 +5,7 @@ View Demo👇: <br />
 https://teal-nougat-e68ce7.netlify.app/ <br />
 View my Linkedin👇: <br />
 https://www.linkedin.com/in/gigi-beridze-367126214/ <br />
-<br />
-Gmail - gigi.beridze.2018@gmail.com<br />
+Gmail - <br/>gigi.beridze.2018@gmail.com<br />
 
 
 > CLI that generates beautiful README.md files.<br /> `readme-md-generator` will suggest you default answers by reading your `package.json` and `git` configuration.
