@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
   </a>
   <a href="https://twitter.com/FranckAbgrall">
-    <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/endpoint?url=<URL>&style<STYLE>" target="_blank" />
+    <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/endpoint" target="_blank" />
   </a>
 </p>
 ```
