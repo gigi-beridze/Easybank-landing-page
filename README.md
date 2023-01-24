@@ -1,4 +1,4 @@
-![openstack provider](https://img.shields.io/badge/OpenStack-orange?logo=openstack&color=da1a32)
+![generic provider](https://img.shields.io/badge/Generic-orange?color=5f87bf)
 # Easybank-landing-page
 
 ## Supported Social Networks
