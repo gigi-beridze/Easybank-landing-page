@@ -3,6 +3,9 @@ Frontend Mentor Easybank landing page challange
 ```
 View Demo👇: <br />
 https://teal-nougat-e68ce7.netlify.app/ <br />
+View my Linkedin👇: <br />
+https://www.linkedin.com/in/gigi-beridze-367126214/ <br />
+
 > CLI that generates beautiful README.md files.<br /> `readme-md-generator` will suggest you default answers by reading your `package.json` and `git` configuration.
 
 ![active-states](https://user-images.githubusercontent.com/82542634/187777514-e0ee1798-dca6-4e08-9f3f-b855eb8f0bca.jpg)
