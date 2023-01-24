@@ -2,6 +2,8 @@
 ```
 Frontend Mentor Easybank landing page challange
 ```
+View Demo point_down:
+teal-nougat-e68ce7.netlify.app/
 
 ![active-states](https://user-images.githubusercontent.com/82542634/187777514-e0ee1798-dca6-4e08-9f3f-b855eb8f0bca.jpg)
 ![desktop-design](https://user-images.githubusercontent.com/82542634/187777522-db10a5bb-14d3-438d-9428-b358895a7a44.jpg)
