@@ -1,11 +1,9 @@
 # Easybank-landing-page
 
 <p align="center">
-  <a href="https://twitter.com/FranckAbgrall">
-    <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social" target="_blank" />
-  </a>
+  <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
+ 
 </p>
-
 ```
 Frontend Mentor Easybank landing page challange
 ```
