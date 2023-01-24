@@ -1,5 +1,14 @@
 # Easybank-landing-page
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+
+## Supported Social Networks
+
+### Multi-Language Social Media
+* <img src="./images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn](#linkedin)
+* <img src="./images/logo-icons/facebook.jpg" width="15px;"/> [Facebook](#facebook)
+* <img src="./images/logo-icons/gmail.jpg" width="15px;"/> [GMail](#gmail)
+
+
+
 ```
 Frontend Mentor Easybank landing page challange
 ```
