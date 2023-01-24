@@ -1,12 +1,9 @@
-![generic provider](https://img.shields.io/badge/Generic-orange?color=5f87bf)
+![generic provider]<img src="(https://img.shields.io/badge/Generic-orange?color=5f87bf) href="google.com"
 # Easybank-landing-page
 
 ## Supported Social Networks
 
 ### Multi-Language Social Media
-* <img src="./images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn](#linkedin)
-* <img src="./images/logo-icons/facebook.jpg" width="15px;"/> [Facebook](#facebook)
-* <img src="./images/logo-icons/gmail.jpg" width="15px;"/> [GMail](#gmail)
 
 
 
